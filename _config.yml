@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Liang Jiarui / Site Title"
+title                    : "Liang's Personal Website"
 title_separator          : "-"
 name                     : &name "Liang Jiarui"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Liang Jiarui"
-  pronouns         : "he/him"  
+  # pronouns         : "he/him"  
   # bio              : "Perseverance is the key to success."
   location         : "Shenzhen, China"
   employer         : "Tsinghua University"
